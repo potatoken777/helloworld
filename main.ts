@@ -1,7 +1,7 @@
 input.onButtonPressed(Button.A, function () {
-    basic.showIcon(IconNames.Chessboard)
+    basic.showIcon(IconNames.Yes)
 })
 input.onButtonPressed(Button.B, function () {
-    basic.showIcon(IconNames.StickFigure)
+    basic.showIcon(IconNames.No)
 })
 basic.showIcon(IconNames.Ghost)
